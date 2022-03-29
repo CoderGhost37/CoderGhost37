@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3 and blockchain
-- ⚡ Hobbies: I love to listen music and play outdoor sports
+- ⚡ Fun Fact: I love to listen music and play outdoor sports
 
 ### Languages, Tools and Technologies :
 
