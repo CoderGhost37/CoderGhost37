@@ -1,8 +1,8 @@
 # Hi there, I'm Kushagra - aka [CoderGhost37]👋 
 
-<br />
+<h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Full-stack+Web+Developer;Blockchain+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Web+Developer;Blockchain+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3 and blockchain
